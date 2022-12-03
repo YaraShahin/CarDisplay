@@ -89,8 +89,8 @@ Total Cost: 287 EGP
 The video demo can be found at: https://drive.google.com/file/d/1ATuG1tQZMa_KHwsERBIh5QhZrqEs1mak/view?usp=sharing
 
 ## Schematic diagram
-  <img align="center" width="900" height="300" src="/media/EmbeddedIrrigationFun.png">
-  <img align="center" width="900" height="500" src="/media/Embedded Irrigation.jpg">
+  <img align="center" width="900" height="300" src="/media/funsch.png">
+  <img align="center" width="900" height="500" src="/media/realsch.png">
   
   
 ## Software Design Architecture
