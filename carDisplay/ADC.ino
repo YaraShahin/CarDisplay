@@ -12,6 +12,8 @@ void ADC_Init() {
 }
 
 int ADC_Read(int channel){ 
+  //resetting the adc before each reading to prevent interference of two channels at the MUX
+  ADC_Init();
   
   ADMUX = ADMUX & ~(1 << MUX0);
   ADMUX = ADMUX & ~(1 << MUX1);
