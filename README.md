@@ -95,3 +95,9 @@ The video demo can be found at: https://drive.google.com/file/d/1ATuG1tQZMa_KHws
   
 ## Software Design Architecture
 <img align="center" width="900" height="500" src="/media/layers.png">
+
+## Contributer
+This project is a team effort by:
+* Amr Tarek
+* Youssef Mokhtar
+* Yara Shahin
